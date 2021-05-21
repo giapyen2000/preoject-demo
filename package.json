@@ -1,0 +1,23 @@
+{
+  "name": "preoject-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikayen/preoject-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikayen/preoject-demo/issues"
+  },
+  "homepage": "https://github.com/kikayen/preoject-demo#readme",
+  "dependencies": {
+    "epxress": "0.0.1-security",
+    "express": "^4.17.1"
+  }
+}
